@@ -2,7 +2,9 @@
 
 ## About
 
-Jordan is a Full-Stack Software Engineer and ...
+I'm a Full-Stack Software Engineer currently working at IBM.  I live in Atlanta, Georgia, United States.
+
+I’m passionate about programming, Bitcoin, Lightning, Linux, open source software, self-hosting, privacy technology, and digital self-sovereignty. My goal is to work in the Bitcoin industry full time in order to help spread global Bitcoin adoption.
 
 ## Contact
 
