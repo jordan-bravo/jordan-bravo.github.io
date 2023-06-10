@@ -16,7 +16,7 @@ My goal is to work in the Bitcoin industry full time in order to help spread glo
 
 ![Twitter](/assets/images/icon-twitter-48.png) Twitter: [@thejordanbravo](https://twitter.com/thejordanbravo)
 
-![Matrix](/assets/images/icon-matrix-48.png) Matrix: [@jordanbravo:matrix.org](https://matrix.to/#/@jordanbravo:matrix.org)
+![Matrix](/assets/images/icon-matrix-white-48.png) Matrix: [@jordanbravo:matrix.org](https://matrix.to/#/@jordanbravo:matrix.org)
 
 ![LinkedIn](/assets/images/icon-linkedin-48.png) LinkedIn: [jordan-b-dev](https://linkedin.com/in/jordan-b-dev)
 
