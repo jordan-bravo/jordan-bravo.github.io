@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
+gem 'json' 
+gem "webrick", "~> 1.8"
+gem 'jekyll'
+gem 'jekyll-remote-theme'
+gem 'jekyll-seo-tag'
+gem 'github-pages'
