@@ -38,21 +38,9 @@ Lorem ipsem...
 
 [![Lily Wallet](/assets/images/screenshot-lily-300x192.png)](/screenshots/lily)
 
-Live Demo: N/A
+Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [Source Code](https://github.com/Lily-Technologies/lily-wallet)
-
-<br/>
-
-## Arion
-
-#### Pay For Parking With Bitcoin
-
-[![Arion](/assets/images/screenshot-arion-thumbnail-300.png)](/screenshots/arion)
-
-[Live Demo](https://arionparking.tech/)
-
-[Source Code](https://github.com/atlantabitdevs/park-lightning)
 
 <br/>
 
@@ -65,4 +53,16 @@ Live Demo: N/A
 [Live Demo](https://pleb.fm/atl)
 
 [Source Code](https://github.com/PlebFM/PlebFM)
+
+<br/>
+
+## Arion
+
+#### Pay For Parking With Bitcoin
+
+[![Arion](/assets/images/screenshot-arion-thumbnail-300.png)](/screenshots/arion)
+
+[Live Demo](https://arionparking.tech/)
+
+[Source Code](https://github.com/atlantabitdevs/park-lightning)
 
