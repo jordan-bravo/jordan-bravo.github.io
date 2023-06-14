@@ -1,3 +1,5 @@
+![Avatar](/assets/images/avatar-200.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
 # About
 
 I'm a Full-Stack Software Engineer currently working at IBM.  I live in Atlanta, Georgia, United States.
