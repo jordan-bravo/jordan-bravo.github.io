@@ -26,7 +26,10 @@ My goal is to build software that facilitates the spread of digital and financia
   
 # Professional Experience
 
-Lorem ipsem...
+I have been professionally develping software since 2019.  Prior to that, I provided IT systems administration and support for small businesses.  Resume available upon request.
+
+# Teaching / Speaking
+I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin, privacy technology, and digital self-sovereignty.  
 
 <br/>
 
