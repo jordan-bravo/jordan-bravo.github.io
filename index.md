@@ -26,7 +26,27 @@ My goal is to build software that facilitates the spread of digital and financia
   
 # Professional Experience
 
+<<<<<<< Updated upstream
 Lorem ipsem...
+||||||| Stash base
+I have been professionally develping software since 2019.  Prior to that, I provided IT systems administration and support for small businesses.  Resume available upon request.
+
+<br/>
+
+# Teaching / Speaking
+I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin, privacy technology, and digital self-sovereignty.  
+=======
+I have been professionally develping software since 2019.  Prior to that, I provided IT systems administration and support for small businesses.  Resume available upon request.
+
+<br/>
+
+# Teaching / Speaking
+I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin, privacy technology, and digital self-sovereignty.  
+- [Socratic Seminar: Reclaiming Your Personal Digital Sovereignty](https://www.meetup.com/atlantabitdevs/events/286248874/){:target="_blank"}
+- [Bitcoin Privacy: Transacting with CoinJoins, PayJoins, and PayNyms](https://www.meetup.com/atlantabitdevs/events/294080873/){:target="_blank"}
+- [Advanced CoinJoins on your home node Part 1: Whirlpool Clients](https://www.meetup.com/atlantabitdevs/events/294304956/){:target="_blank"}
+- [Advanced CoinJoins on your home node Part 2: Whirlpool Servers](https://www.meetup.com/atlantabitdevs/events/294521290/){:target="_blank"}
+>>>>>>> Stashed changes
 
 <br/>
 
