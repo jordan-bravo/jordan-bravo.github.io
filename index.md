@@ -16,6 +16,8 @@ My goal is to build software that facilitates the spread of digital and financia
 
 ![LinkedIn](/assets/images/icon-linkedin-48.png) LinkedIn: [jordan-b-dev](https://linkedin.com/in/jordan-b-dev){:target="_blank"}
 
+![GitHub](/assets/images/icon-github-48.png) GitHub: [jordan-bravo](https://github.com/jordan-bravo){:target="_blank"}
+
 ![Matrix](/assets/images/icon-matrix-white-48.png) Matrix: [@jordanbravo:matrix.org](https://matrix.to/#/@jordanbravo:matrix.org){:target="_blank"}
 
 ![Nostr](/assets/images/icon-nostr-48.png) Nostr Address: [jordan@nostrplebs.com](https://astral.ninja/npub1f6ntw2f4dnpdwkccqgg7ef7yagf9kdkrfn7l07kr9uz0q8e9k94sje7kur){:target="_blank"}
