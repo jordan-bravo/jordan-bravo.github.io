@@ -1,3 +1,3 @@
 ## Arion
 
-![Arion](/assets/images/screenshot-arion-full-400.png)
+![Arion](/assets/images/screenshot-arion-400x826.png)

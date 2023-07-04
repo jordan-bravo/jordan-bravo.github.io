@@ -1,3 +1,3 @@
 ## PlebFM
 
-![PlebFM](/assets/images/screenshot-plebfm-full-400.png)
+![PlebFM](/assets/images/screenshot-plebfm-400x875.png)
