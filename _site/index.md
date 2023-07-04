@@ -26,7 +26,12 @@ My goal is to build software that facilitates the spread of digital and financia
   
 # Professional Experience
 
-Lorem ipsem...
+I have been professionally develping software since 2019.  Prior to that, I provided IT systems administration and support for small businesses.  Resume available upon request.
+
+<br/>
+
+# Teaching / Speaking
+I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin, privacy technology, and digital self-sovereignty.  
 
 <br/>
 
@@ -50,7 +55,7 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 #### Competitive Jukebox With Bitcoin-Powered Bidding
 
-[![PlebFM](/assets/images/screenshot-plebfm-thumbnail-300.png)](/screenshots/plebfm)
+[![PlebFM](/assets/images/screenshot-plebfm-300x256.png)](/screenshots/plebfm)
 
 [Live Demo](https://pleb.fm/atl)
 
@@ -62,9 +67,33 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 #### Pay For Parking With Bitcoin
 
-[![Arion](/assets/images/screenshot-arion-thumbnail-300.png)](/screenshots/arion)
+[![Arion](/assets/images/screenshot-arion-300x245.png)](/screenshots/arion)
 
 [Live Demo](https://arionparking.tech/)
 
 [Source Code](https://github.com/atlantabitdevs/park-lightning)
+
+<br/>
+
+## Cete
+
+#### Family Bitcoin Wallet
+
+[![Cete](/assets/images/screenshot-cete-300x230.png)](/screenshots/cete)
+
+[Live Demo](https://cete.atlantabitdevs.org)
+
+[Source Code](https://github.com/atlantabitdevs/family-btc)
+
+<br/>
+
+## CatHerd
+
+#### Meetup.com Competitor Built On Nostr
+
+[![CatHerd](/assets/images/screenshot-catherd-300x285.png)](/screenshots/catherd)
+
+[Live Demo](https://meetup.terminus.money)
+
+[Source Code](https://github.com/ATLBitLab/nostr-meetup)
 
