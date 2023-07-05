@@ -9,22 +9,6 @@ I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source 
 My goal is to build software that facilitates the spread of digital and financial self-sovereingty so that everyone has the opportunity to opt out of the current system.
 
 <br/>
-
-# Contact
-
-![Twitter](/assets/images/icon-twitter-48.png) Twitter: [@thejordanbravo](https://twitter.com/thejordanbravo){:target="_blank"}
-
-![LinkedIn](/assets/images/icon-linkedin-48.png) LinkedIn: [jordan-b-dev](https://linkedin.com/in/jordan-b-dev){:target="_blank"}
-
-![GitHub](/assets/images/icon-github-48.png) GitHub: [jordan-bravo](https://github.com/jordan-bravo){:target="_blank"}
-
-![Matrix](/assets/images/icon-matrix-white-48.png) Matrix: [@jordanbravo:matrix.org](https://matrix.to/#/@jordanbravo:matrix.org){:target="_blank"}
-
-![Nostr](/assets/images/icon-nostr-48.png) Nostr Address: [jordan@nostrplebs.com](https://astral.ninja/npub1f6ntw2f4dnpdwkccqgg7ef7yagf9kdkrfn7l07kr9uz0q8e9k94sje7kur){:target="_blank"}
-
-![PayNym](/assets/images/icon-paynym-48.png) BIP47 PayNym: [+silentbush829](https://paynym.is/+silentbush829){:target="_blank"}
-  
-<br/>
   
 # Professional Experience
 
@@ -103,3 +87,18 @@ Live App: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [Source Code](https://github.com/ATLBitLab/nostr-meetup)
 
+<br/>
+
+# Contact
+
+![Twitter](/assets/images/icon-twitter-48.png) Twitter: [@thejordanbravo](https://twitter.com/thejordanbravo){:target="_blank"}
+
+![LinkedIn](/assets/images/icon-linkedin-48.png) LinkedIn: [jordan-b-dev](https://linkedin.com/in/jordan-b-dev){:target="_blank"}
+
+![GitHub](/assets/images/icon-github-48.png) GitHub: [jordan-bravo](https://github.com/jordan-bravo){:target="_blank"}
+
+![Matrix](/assets/images/icon-matrix-white-48.png) Matrix: [@jordanbravo:matrix.org](https://matrix.to/#/@jordanbravo:matrix.org){:target="_blank"}
+
+![Nostr](/assets/images/icon-nostr-48.png) Nostr Address: [jordan@nostrplebs.com](https://astral.ninja/npub1f6ntw2f4dnpdwkccqgg7ef7yagf9kdkrfn7l07kr9uz0q8e9k94sje7kur){:target="_blank"}
+
+![PayNym](/assets/images/icon-paynym-48.png) BIP47 PayNym: [+silentbush829](https://paynym.is/+silentbush829){:target="_blank"}
