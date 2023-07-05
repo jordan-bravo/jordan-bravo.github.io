@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Software Engineer currently working at IBM.  I live in Atlanta, Georgia, United States.
 
-I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source software, self-hosting, and any technologies that enable privacy and freedom.
+I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source software, self-hosting, and other technologies that enable privacy and freedom.
 
 My goal is to build software that facilitates the spread of digital and financial self-sovereingty so that everyone has the opportunity to opt out of the current system.
 
