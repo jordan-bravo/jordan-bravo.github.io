@@ -6,7 +6,7 @@ I'm a Full-Stack Software Engineer currently working at IBM.  I live in Atlanta,
 
 I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source software, self-hosting, privacy technology, and digital self-sovereignty.
 
-My goal is to build software that facilitates the spread of digital and financial self-sovereingty so that everyone has the opportunity to opt out of the current sytem.
+My goal is to build software that facilitates the spread of digital and financial self-sovereingty so that everyone has the opportunity to opt out of the current system.
 
 <br/>
 
@@ -51,7 +51,7 @@ I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin,
 
 [![Lily Wallet](/assets/images/screenshot-lily-300x192.png)](/screenshots/lily)
 
-Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
+Live App: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [Source Code](https://github.com/Lily-Technologies/lily-wallet)
 
@@ -63,7 +63,7 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [![PlebFM](/assets/images/screenshot-plebfm-300x256.png)](/screenshots/plebfm)
 
-[Live Demo](https://pleb.fm/atl)
+[Live App](https://pleb.fm/atl)
 
 [Source Code](https://github.com/PlebFM/PlebFM)
 
@@ -75,7 +75,7 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [![Arion](/assets/images/screenshot-arion-300x245.png)](/screenshots/arion)
 
-[Live Demo](https://arionparking.tech/)
+[Live App](https://arionparking.tech/)
 
 [Source Code](https://github.com/atlantabitdevs/park-lightning)
 
@@ -87,7 +87,7 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [![Cete](/assets/images/screenshot-cete-300x230.png)](/screenshots/cete)
 
-[Live Demo](https://cete.atlantabitdevs.org)
+[Live App](https://cete.atlantabitdevs.org)
 
 [Source Code](https://github.com/atlantabitdevs/family-btc)
 
@@ -99,7 +99,7 @@ Live Demo: N/A (download desktop app [here](https://lily-wallet.com/download))
 
 [![CatHerd](/assets/images/screenshot-catherd-300x285.png)](/screenshots/catherd)
 
-[Live Demo](https://meetup.terminus.money)
+[Live App](https://meetup.terminus.money)
 
 [Source Code](https://github.com/ATLBitLab/nostr-meetup)
 
