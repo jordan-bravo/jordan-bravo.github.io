@@ -35,7 +35,7 @@ I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin,
 
 [![Lily Wallet](/assets/images/screenshot-lily-300x192.png)](/screenshots/lily)
 
-Live App: N/A (download desktop app [here](https://lily-wallet.com/download))
+[Download Desktop App](https://lily-wallet.com/download))
 
 [Source Code](https://github.com/Lily-Technologies/lily-wallet)
 
