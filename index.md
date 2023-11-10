@@ -2,7 +2,7 @@
 
 # About
 
-I'm a Full-Stack Software Engineer currently working at IBM.  I live in Atlanta, Georgia, United States.
+I'm a Full-Stack Software Engineer currently working at Bitcoin Depot.  Previously, I worked at IBM.  I live in Atlanta, Georgia, United States.
 
 I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source software, self-hosting, and other technologies that enable privacy and freedom.
 
@@ -22,3 +22,8 @@ I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin,
 - [Bitcoin Privacy: Transacting with CoinJoins, PayJoins, and PayNyms :: 2023-06-14](https://www.meetup.com/atlantabitdevs/events/294080873/){:target="_blank"}
 - [Advanced CoinJoins on your home node Part 1: Whirlpool Clients :: 2023-06-24](https://www.meetup.com/atlantabitdevs/events/294304956/){:target="_blank"}
 - [Advanced CoinJoins on your home node Part 2: Whirlpool Servers :: 2023-07-22](https://www.meetup.com/atlantabitdevs/events/294521290/){:target="_blank"}
+
+<br/>
+
+# Projects & Open Source Contributions
+I'm a proud member of [ATL BitLab](https://atlbitlab.com), an Atlanta-based hackerspace & co-working space for Bitcoiners.
