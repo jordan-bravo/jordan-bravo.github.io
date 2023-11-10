@@ -26,4 +26,4 @@ I lead seminars and workshops with the Atlanta BitDevs on the topics of Bitcoin,
 <br/>
 
 # Projects & Open Source Contributions
-I'm a proud member of ATL BitLab, an Atlanta-based hackerspace & co-working space for Bitcoiners.
+I'm a proud member of [ATL BitLab](https://atlbitlab.com), an Atlanta-based hackerspace & co-working space for Bitcoiners.
