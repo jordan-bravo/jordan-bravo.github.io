@@ -21,3 +21,4 @@ Push to branch `gh-pages`
 ## TODO
 
 - Create `/favicon.ico` from avatar.
+- In contact section, add lighting address.
