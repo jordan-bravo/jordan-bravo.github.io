@@ -2,7 +2,7 @@
 
 # About
 
-I’ve been developing software since 2019 with an emphasis on back-end systems, web APIs, and Linux servers that are secure, performant, scalable, and maintainable. I’m accustomed to working effectively in a distributed team environment using agile methodologies on all aspects of the Software Development Life Cycle.
+I’ve been professionally developing software since 2019 with an emphasis on back-end systems, web APIs, and Linux servers that are secure, performant, scalable, and maintainable. I’m accustomed to working effectively in a distributed team environment using agile methodologies on all aspects of the Software Development Life Cycle.
 
 I’m a passionate programmer focused on Bitcoin, Lightning, Linux, open source software, self-hosting, Nix, and other technologies that enable privacy and freedom, collectively known as Sovereign Computing.
 
