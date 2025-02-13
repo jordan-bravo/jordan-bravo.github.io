@@ -22,4 +22,4 @@ Push to branch `gh-pages`
 
 ## TODO
 
-- [ ] Round corners of Lightning address icon.
+- [x] Round corners of Lightning address icon.
