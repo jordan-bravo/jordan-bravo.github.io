@@ -14,11 +14,12 @@ bundle exec jekyll serve
 
 Navigate to http://localhost:4000
 
+Edit files `index.md` and `_layouts/default.html`
+
 ## Deploy
 
 Push to branch `gh-pages`
 
 ## TODO
 
-- Create `/favicon.ico` from avatar.
-- In contact section, add lighting address.
+- [ ] Round corners of Lightning address icon.
