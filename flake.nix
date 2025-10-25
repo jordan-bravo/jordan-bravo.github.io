@@ -17,6 +17,7 @@
             jekyll
             gcc
             gnumake
+            python313
           ];
         };
       }

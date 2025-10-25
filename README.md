@@ -1,6 +1,6 @@
 ## Setup
 
-- Instal dependencies
+- Install dependencies
 
 ```sh
 bundle install
@@ -10,6 +10,20 @@ bundle install
 
 ```sh
 bundle exec jekyll serve
+```
+
+OR
+
+- Build site
+
+```sh
+bundle exec jekyll build
+```
+
+- Serve built site with Python http
+
+```sh
+python -m http.server 4000 --directory _site
 ```
 
 Navigate to http://localhost:4000
