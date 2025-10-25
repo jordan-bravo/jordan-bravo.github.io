@@ -16,6 +16,7 @@
             bundler
             jekyll
             gcc
+            git
             gnumake
             python313
           ];
